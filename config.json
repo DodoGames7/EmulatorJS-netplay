@@ -1,3 +1,3 @@
 {
-    "passwordforserver" : process.env.PASSWORD
+    "passwordforserver" : "test"
 }
